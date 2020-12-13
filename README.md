@@ -1,5 +1,17 @@
 # Spamwa v2.0
 
+
+
+![Alt text](https://github.com/Xnuvers007/SpamWa/blob/main/Images_And_Tutor/p0.png "Optional title")
+
+TOTAL DOWNLOADS
+
+git clone https://github.com/Xnuvers007/SpamWa
+size = 12.32 Mb
+
+
+
+# Spamwa v2.0
 ![Alt text](https://github.com/Xnuvers007/SpamWa/blob/main/Images_And_Tutor/p.png "Optional title")
 
 ![Alt text](https://github.com/Xnuvers007/SpamWa/blob/main/Images_And_Tutor/p1.2.png "Optional title")

@@ -7,7 +7,7 @@
 TOTAL DOWNLOADS
 
 git clone https://github.com/Xnuvers007/SpamWa
-size = 12.32 Mb
+size = 12.32 Mb ++
 
 
 

@@ -1,0 +1,8 @@
+---------ChromeDriver 88.0.4324.27 (2020-12-03)---------
+Supports Chrome version 88
+Resolved issue 3611: getText() output in protractor different from <element>.innerText [Pri-2]
+Resolved issue 3625: Improve element screenshot compatibility [Pri-2]
+Resolved issue 3628: Stale Element Reference and wrong URL reported back with URL having another URL as part of its path [Pri-2]
+Resolved issue 3631: Add support for the `webauthn:extension:largeBlob` capability [Pri-2]
+Resolved issue 3635: Chromedriver 86 - chromedriver .quit() doesn't seem to pass unload event properly [Pri-]
+Resolved issue 3649: Copying selected text to clipboard does not work on Windows 10 when using headless mode [Pri-

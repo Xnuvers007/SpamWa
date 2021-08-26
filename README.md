@@ -1,3 +1,6 @@
+![Size](https://img.shields.io/github/repo-size/Xnuvers007/spamwa)
+![Repo](https://img.shields.io/github/stars/Xnuvers007?style=social)
+
 # Spamwa v2.0
 
 
